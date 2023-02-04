@@ -1,2 +1,2 @@
-# Bizler-Template-Brave-Pascal
+# react-template
 Created with CodeSandbox
